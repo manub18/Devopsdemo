@@ -1,2 +1,0 @@
-# Devopsdemo
-Google cloud
